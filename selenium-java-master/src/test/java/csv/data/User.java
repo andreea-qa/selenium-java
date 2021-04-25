@@ -1,4 +1,4 @@
-package CSVData;
+package csv.data;
 
 public class User {
     private String userName;
